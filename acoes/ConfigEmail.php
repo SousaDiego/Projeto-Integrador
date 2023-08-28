@@ -1,5 +1,5 @@
 <?php
 
-    $usuarioEmail="william.vo@aluno.ifsc.edu.br";
-    $senhaEmail="NjI0NzU4Njk";
+    $usuarioEmail="coloque@seu.email";
+    $senhaEmail="SuaSenha";
 ?>
