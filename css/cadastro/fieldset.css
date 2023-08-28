@@ -1,0 +1,8 @@
+fieldset {
+    width: 40%;
+    margin: 20px auto;
+    box-shadow: 5px 5px 5px rgba(50, 50, 50, 0.6);
+    padding: 25px;
+    padding-bottom: 10px;
+    background: white;
+   }

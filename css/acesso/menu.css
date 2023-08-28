@@ -1,0 +1,13 @@
+.menu{
+    list-style: none;
+    background-color: #75E0D2;
+    margin: 0;
+    width: 220px;
+    color: #942991;
+    border: ridge;
+}
+.topmenu{
+    list-style: none;
+    text-align: left;
+    margin-left: 80px;
+}

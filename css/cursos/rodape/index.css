@@ -1,0 +1,15 @@
+.div_rodape{
+    background-color: black;
+    float: left;
+    width: 100%;
+    color: white;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.ul_rodape{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.li_rodape{
+    list-style-type: none;
+}

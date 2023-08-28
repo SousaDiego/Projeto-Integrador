@@ -1,0 +1,24 @@
+.div_total{
+    float: left;
+    width: 100%;
+}
+.div_menu{
+    float: left;
+    background-color: aqua;
+    width: 100%;
+    border-bottom: solid;
+    border-bottom-color: antiquewhite;
+}
+.div_banner{
+    background-color: blue;
+    width: 100%;
+    float: left;
+}
+.div_meio_1{
+    float: left;
+    width: 100%;
+}
+.div_meio_2{
+    float: left;
+    width: 100%;
+}

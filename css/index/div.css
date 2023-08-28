@@ -1,0 +1,30 @@
+.div_total{
+    float: left;
+    width: 100%;
+}
+.div_menu{
+    float: left;
+    background-color: aqua;
+    width: 100%;
+    border-bottom: solid;
+    border-bottom-color: antiquewhite;
+}
+.div_banner{
+    background-color: blue;
+    width: 100%;
+    float: left;
+    background-image: url(../../img/pexels-tima-miroshnichenko-5380642.jpg);
+    height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  color: aliceblue;
+}
+.div_meio_1{
+    float: left;
+    width: 100%;
+}
+.div_meio_2{
+    float: left;
+    width: 100%;
+}

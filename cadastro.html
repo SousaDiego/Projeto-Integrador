@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro</title>
+    <script type="text/javascript" src="script/jquery.js"></script>
+    <script type="text/javascript" src="script/acesso.js"></script>
+    <link rel="stylesheet" href="css/cadastro/fieldset.css">
+    <link rel="stylesheet" href="css/cadastro/label.css">
+    <link rel="stylesheet" href="css/cadastro/button.css">
+    <link rel="stylesheet" href="css/cadastro/div.css">
+    <link rel="stylesheet" href="css/cadastro/h3.css">
+    <link rel="stylesheet" href="css/cadastro/li.css">
+    <link rel="stylesheet" href="css/cadastro/ul.css">
+    <link rel="stylesheet" href="css/cadastro/body.css">
+    <link rel="stylesheet" href="css/cadastro/form.css">
+</head>
+<body>
+    <div class="div_menu">
+            <h3 class="h3_menu">WH Cursos </h3>
+            <ul class="ul_menu">
+                <a href="login.html"><li class="li_menu">Entrar/Cadastrar</li></a>
+                <a href="acesso.php"><li class="li_menu">Aluno</li></a>
+                <a href="cursos.html"><li class="li_menu">Cursos</li></a>
+                <a href="index.html"><li class="li_menu">Home</li></a>
+            </ul>
+        </div>
+    <div id="mensagem"></div>
+    <form id="formularioCadastro">
+        <fieldset>
+          <legend> Cadastro de usuário </legend>  
+      
+          <label class="alinha"> Nome: </label>
+          <input type="text" name="nome" id="nome" autofocus> <br>
+      
+          <label class="alinha"> Email: </label>
+          <input type="text" name="email" id="email"> <br>
+      
+          <label class="alinha"> Senha: </label>
+          <input type="password" name="senha" id="senha"> <br>
+      
+          <button id="btnCadastrar" type="submit"> Cadastrar usuário </button>
+        </fieldset>
+    </form>
+    <p style="float: left;text-align: center;margin-left: 38%;">Após se cadastrar confirme sua conta pelo email</p>
+</body>
+</html>

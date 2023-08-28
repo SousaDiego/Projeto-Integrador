@@ -1,0 +1,15 @@
+button {
+    font-family: "Stint Ultra Condensed";
+    font-size: 14px;  
+    margin: auto;
+    display: block; /*converte o botão para nível de bloco, permitindo sua centralização*/
+    margin-top: 10px;
+    width: 250px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+   }

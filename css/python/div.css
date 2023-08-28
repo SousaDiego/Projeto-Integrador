@@ -1,0 +1,37 @@
+.div_total{
+    float: left;
+    width: 100%;
+}
+.div_menu{
+    float: left;
+    background-color: aqua;
+    width: 100%;
+    border-bottom: solid;
+    border-bottom-color: antiquewhite;
+}
+.div_body_total {
+    float: left;
+    width: 100%;
+}
+.div_body_esquerda {
+    float: left;
+    width: 30%;
+}
+.div_body_esquerda_2 {
+    float: left;
+    width: 30%;
+
+}
+.p_body_esquerda_2 {
+    color: white;
+}
+.div_body_direita {
+    float: left;
+    width: 70%;
+}
+.fieldset_1 {
+    background-color: rgba(250, 244, 244, 0.733);
+}
+.fieldset_2 {
+    width: 80%;
+}

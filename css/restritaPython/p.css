@@ -1,0 +1,18 @@
+.p_curso_1{
+    text-align: center;
+}
+.p_curso_2{
+    text-align: center;
+}
+.p_voltar{
+    float: left;
+    padding: 5px;
+}
+.p_proximo{
+    float: left;
+    padding: 5px;
+}
+.p_sesao{
+    float: left;
+    width: 100%;
+}
